@@ -13,7 +13,7 @@ const Header = () => {
     <header className="header">
       {/* Left side */}
       <div className="header__left">
-        <img src="linkedin_icon.png" alt="" />
+        <img src="linkedin_icon.png" alt="profile pic" />
         <div className="header__search">
           <SearchIcon />
           <input type="text" />
